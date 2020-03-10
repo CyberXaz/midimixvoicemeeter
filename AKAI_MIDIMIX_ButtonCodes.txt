@@ -1,0 +1,97 @@
+MUTE 1 to 8
+
+	90 01 7F    Note On          C#-2 (do# -2Velocity: 127 Channel 1 
+	80 01 7F    Note Off         C#-2 (do# -2Velocity: 127 Channel 1 
+
+	90 04 7F    Note On          E-2 (mi-2)  Velocity: 127 Channel 1 
+	80 04 7F    Note Off         E-2 (mi-2)  Velocity: 127 Channel 1 
+
+	90 07 7F    Note On          G-2 (sol-2) Velocity: 127 Channel 1 
+	80 07 7F    Note Off         G-2 (sol-2) Velocity: 127 Channel 1 
+
+	90 0A 7F    Note On          A#-2 (la#-2)Velocity: 127 Channel 1 
+	80 0A 7F    Note Off         A#-2 (la#-2)Velocity: 127 Channel 1 
+
+	90 0D 7F    Note On          C#-1 (do# -1Velocity: 127 Channel 1 
+	80 0D 7F    Note Off         C#-1 (do# -1Velocity: 127 Channel 1 
+
+	90 10 7F    Note On          E-1 (mi-1)  Velocity: 127 Channel 1 
+	80 10 7F    Note Off         E-1 (mi-1)  Velocity: 127 Channel 1 
+
+	90 13 7F    Note On          G-1 (sol-1) Velocity: 127 Channel 1 
+	80 13 7F    Note Off         G-1 (sol-1) Velocity: 127 Channel 1 
+
+	90 16 7F    Note On          A#-1 (la#-1)Velocity: 127 Channel 1 
+	80 16 7F    Note Off         A#-1 (la#-1)Velocity: 127 Channel 1 
+
+
+SOLO 
+
+	90 1B 7F    Note On          D#0 (ré#0)  Velocity: 127 Channel 1 
+	80 1B 7F    Note Off         D#0 (ré#0)  Velocity: 127 Channel 1 
+
+
+SOLO+MUTE 1 to 8
+
+	90 02 7F    Note On          D-2 (ré-2)  Velocity: 127 Channel 1 
+	80 02 7F    Note Off         D-2 (ré-2)  Velocity: 127 Channel 1 
+
+	90 05 7F    Note On          F-2 (fa-2)  Velocity: 127 Channel 1 
+	80 05 7F    Note Off         F-2 (fa-2)  Velocity: 127 Channel 1 
+
+	90 08 7F    Note On          G#-2 (sol#-2Velocity: 127 Channel 1 
+	80 08 7F    Note Off         G#-2 (sol#-2Velocity: 127 Channel 1 
+
+	90 0B 7F    Note On          B-2 (si-2)  Velocity: 127 Channel 1 
+	80 0B 7F    Note Off         B-2 (si-2)  Velocity: 127 Channel 1 
+
+	90 0E 7F    Note On          D-1 (ré-1)  Velocity: 127 Channel 1 
+	80 0E 7F    Note Off         D-1 (ré-1)  Velocity: 127 Channel 1 
+
+	90 11 7F    Note On          F-1 (fa-1)  Velocity: 127 Channel 1 
+	80 11 7F    Note Off         F-1 (fa-1)  Velocity: 127 Channel 1 
+
+	90 14 7F    Note On          G#-1 (sol#-1Velocity: 127 Channel 1 
+	80 14 7F    Note Off         G#-1 (sol#-1Velocity: 127 Channel 1 
+
+	90 17 7F    Note On          B-1 (si-1)  Velocity: 127 Channel 1 
+	80 17 7F    Note Off         B-1 (si-1)  Velocity: 127 Channel 1 
+
+
+REC ARM 1 to 8
+
+	90 03 7F    Note On          D#-2 (ré#-2)Velocity: 127 Channel 1 
+	80 03 7F    Note Off         D#-2 (ré#-2)Velocity: 127 Channel 1 
+
+	90 06 7F    Note On          F#-2 (fa#-2)Velocity: 127 Channel 1 
+	80 06 7F    Note Off         F#-2 (fa#-2)Velocity: 127 Channel 1 
+
+	90 09 7F    Note On          A-2 (la-2)  Velocity: 127 Channel 1 
+	80 09 7F    Note Off         A-2 (la-2)  Velocity: 127 Channel 1 
+
+	90 0C 7F    Note On          C-1 (do-1)  Velocity: 127 Channel 1 
+	80 0C 7F    Note Off         C-1 (do-1)  Velocity: 127 Channel 1 
+
+	90 0F 7F    Note On          D#-1 (ré#-1)Velocity: 127 Channel 1 
+	80 0F 7F    Note Off         D#-1 (ré#-1)Velocity: 127 Channel 1 
+
+	90 12 7F    Note On          F#-1 (fa#-1)Velocity: 127 Channel 1 
+	80 12 7F    Note Off         F#-1 (fa#-1)Velocity: 127 Channel 1 
+
+	90 15 7F    Note On          A-1 (la-1)  Velocity: 127 Channel 1 
+	80 15 7F    Note Off         A-1 (la-1)  Velocity: 127 Channel 1 
+	voi
+	90 18 7F    Note On          C0 (do0)    Velocity: 127 Channel 1 
+	80 18 7F    Note Off         C0 (do0)    Velocity: 127 Channel 1 
+
+
+BANK LEFT
+
+	90 19 7F    Note On          C#0 (do# 0) Velocity: 127 Channel 1 
+	80 19 7F    Note Off         C#0 (do# 0) Velocity: 127 Channel 1 
+
+
+BANK RIGHT
+
+	90 1A 7F    Note On          D0 (ré0)    Velocity: 127 Channel 1 
+	80 1A 7F    Note Off         D0 (ré0)    Velocity: 127 Channel 1 
