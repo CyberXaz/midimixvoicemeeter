@@ -80,7 +80,7 @@ REC ARM 1 to 8
 
 	90 15 7F    Note On          A-1 (la-1)  Velocity: 127 Channel 1 
 	80 15 7F    Note Off         A-1 (la-1)  Velocity: 127 Channel 1 
-	voi
+
 	90 18 7F    Note On          C0 (do0)    Velocity: 127 Channel 1 
 	80 18 7F    Note Off         C0 (do0)    Velocity: 127 Channel 1 
 
